@@ -1,0 +1,35 @@
+{
+  "PrinterName": "default",
+  "PageWidth": 280,
+  "FontFamily": "Arail",
+  "PagePadding": {
+    "left": 0,
+    "top": 0,
+    "right": 0,
+    "bottom": 0
+  },
+  "LineHeight": 0, // 0 is default
+  "TextAlignment": "center", //left right,
+  "Header": [
+    {
+      "type": "text",
+      "content": "Title",
+      "FontSize": 17
+    },
+    {
+      "type": "text",
+      "content": "SUB Title",
+      "FontSize": 14
+    },
+    {
+      "type": "line"
+    }
+  ],
+  "Footer": [
+    {
+      "type": "text",
+      "content": "Footer",
+      "FontSize": 10
+    }
+  ]
+}

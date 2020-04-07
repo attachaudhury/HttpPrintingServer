@@ -1,0 +1,17 @@
+{
+  "printersetting": "printersetting",
+  "body": [
+    {
+      "type": "text",
+      "content": "Example Line",
+      "FontSize": 20
+    },
+    {
+      "type": "text",
+      "content": "Example Line 2",
+      "FontSize": 20
+    }
+  ]
+}
+
+// "{\"printersetting\":\"printersetting\",\"body\":[{\"type\":\"text\",\"content\":\"Example Line\",\"FontSize\":20}]}"
